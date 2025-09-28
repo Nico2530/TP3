@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename='/TP3/'>
 
         <h1>TP3</h1>
 
